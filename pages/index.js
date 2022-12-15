@@ -31,7 +31,7 @@ const Home = () => (
         css={{ backdropFilter: 'blur(10px)' }}
       >
         <NextLink href="https://www.facebook.com/1h3104N.D0">
-            <Link target="_blank">https://www.facebook.com/1h3104N.D0</Link>
+            <Link href='https://www.facebook.com/1h3104N.D0'>https://www.facebook.com/1h3104N.D0</Link>
         </NextLink>
       </Box>
 
