@@ -82,7 +82,7 @@ const Navbar = props => {
           </LinkItem>
           <LinkItem
             target="#"
-            href="#"
+            href="https://github.com/raumuongluoc159/nextjs"
             path={path}
             display="inline-flex"
             alignItems="center"
