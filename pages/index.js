@@ -37,6 +37,17 @@ const Home = () => (
 
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
+          <head>
+          <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NE3XEJDFXT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NE3XEJDFXT');
+</script>
+          </head>
           <Heading as="h2" variant="page-title">
             Do The Toan - Leader Group 1
           </Heading>
